@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  PeopleApp
+
+  Created by Megha Uppin on 08/09/2022.
+  
+*/
+"name" = "Name";
+"email" = "Email";
+"job_title" = "Job Title";
+"joined_date" = "Joined Date";
+"id" = "Id";
+"occupied_status" = "Occupied Status";
+"max_occupancy" = "Max Occupancy";
+"created_at" = "Created At";
+
+// Titles
+"people" = "People";
+"room" = "Room";
